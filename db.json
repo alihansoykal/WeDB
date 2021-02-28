@@ -80,26 +80,6 @@
       "name": "Washington DC",
       "phone": " (202) 346-1100",
       "region": "north-america"
-    },
-    {
-      "address": "Gen. Jozefa Bema nr 2\n50-265 Wroclaw\nPolonya",
-      "id": "wroclaw",
-      "image": "https://lh3.googleusercontent.com/Or6dY4MCUCbMnDv4kG8J7u-QTsWhvbqbAbMN9Vp38aJAS7ec7A39gYddcEGbrwd_veFeZo2phypqc1ABk20PZ9jCVxZfuNGYS7j3LDc",
-      "lat": 51.117687,
-      "lng": 17.041737,
-      "name": "Wroclaw",
-      "phone": "+48 (71) 73 41 000",
-      "region": "europe"
-    },
-    {
-      "address": "Brandschenkestrasse 110\n8002 Zürih\nİsviçre",
-      "id": "zurich",
-      "image": "https://lh3.googleusercontent.com/kmEsDEYzbMlluwDPYkeEEBpAvL9MJbXZR3hD3uettOqE8T7lbXvV508j4d4QngB7iwYZa8YYlXiVnGWfZ4ZvTJbputGXsfxrLGhD3tI",
-      "lat": 47.365063,
-      "lng": 8.524425,
-      "name": "Zürih",
-      "phone": "+41 44 668 18 00",
-      "region": "europe"
     }
   ],
   "regions": [
