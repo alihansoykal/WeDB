@@ -1,25 +1,25 @@
 {
   "offices": [
     {
-      "address": "Aabogade 15\n8200 Aarhus\nDanimarka",
-      "id": "aarhus",
+      "address": "Merdivenköy",
+      "id": "merdivenköy",
       "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
-      "lat": 56.172249,
-      "lng": 10.187372,
-      "name": "Aarhus",
+      "lat": 40.980935,
+      "lng": 29.089799,
+      "name": "merdivenköy",
       "phone": "",
       "region": "europe"
     },
    
     {
-      "address": "1600 Amphitheatre Parkway\nMountain View, CA 94043\nAmerika Birleşik Devletleri",
-      "id": "mountain-view",
+      "address": "kadıköy",
+      "id": "kadıköy",
       "image": "https://lh3.googleusercontent.com/Mh8P8gvVwO7NOXfg8anxwPXRy5oKZJ6Cz_LbFfOVdeIsdDfogmMcMsiW7HD7HD2NOINzAPH_v8dALWSuDiiTjCjRnenI7B3l6Pg4yw",
-      "lat": 37.421512,
-      "lng": -122.084101,
-      "name": "Mountain View",
+      "lat": 40.989844,
+      "lng": 29.022629,
+      "name": "kadıköy",
       "phone": "",
-      "region": "north-america"
+      "region": "europe"
     },
     {
       "address": "3 North Avenue\nMaker Maxity, Bandra Kurla Complex\nBandra East\nMumbai, Maharashtra 400051\nHindistan",
@@ -32,11 +32,11 @@
       "region": "asia-pacific"
     },
     {
-      "address": "Shibuya Stream\n3-21-3 Shibuya\nShibuya-ku, Tokyo 150-0002\nJaponya",
+      "address": "beşiktaş",
       "id": "tokyo-strm",
       "image": "https://lh3.googleusercontent.com/GzaUJcEqlixelFX8dg1qcLPwAb4RpEXr3JMxyxpgSTWL17Gso_aq3NeMtQPES7f_JdIrGr9YTBSt08XgNAeoLSkxr3Ue_J0cW3VMCw",
-      "lat": 35.6572564,
-      "lng": 139.7028246,
+      "lat": 41.063081,
+      "lng": 29.025875,
       "name": "Tokyo - STRM",
       "phone": "+81-3-6384-9000",
       "region": "asia-pacific"
@@ -45,8 +45,8 @@
       "address": "111 Richmond Street West\nToronto, ON M5H 2G4\nKanada",
       "id": "toronto",
       "image": "https://lh3.googleusercontent.com/vZUQcWL3r_bsHBRP-Z0XfhMxjlSAAe9sZLlw5rbBzqsM6w-WVjnTZGaw3w-PkqkhHPy0x-2Xzg_gishFkVjn5r3epKifwhmRc741",
-      "lat": 43.650477,
-      "lng": -79.383858,
+      "lat": 41.034480,
+      "lng": 28.992299,
       "name": "Toronto",
       "phone": "416-915-8200",
       "region": "north-america"
@@ -65,8 +65,8 @@
       "address": "Emilii Plater 53\n00-113 Varşova\nPolonya ",
       "id": "warsaw",
       "image": "https://lh3.googleusercontent.com/jTf0m2s5A2qS25ArE3x6Tl1KXtpv3JmHIfcBuw7f-JHsTR0tMiyUVeHO1wBeJ2eEGcAWUbTe3b9B8iP8wyL-TROS5zxmMofMHsnf",
-      "lat": 52.233448,
-      "lng": 21.001668,
+      "lat": 41.068613,
+      "lng": 29.000474,
       "name": "Varşova",
       "phone": "+48 22 207 19 00",
       "region": "europe"
@@ -75,8 +75,8 @@
       "address": "25 Massachusetts Avenue\nWashington DC, 20001\nAmerika Birleşik Devletleri",
       "id": "washington-dc",
       "image": "https://lh3.googleusercontent.com/6rKu8CCH6nMVKjwpnxDlgf_Sdlc7jk83QBVhoLikzEyibYTZkvNPn-QPCJTv3AkjUYf2dHcE15UvPsrg18xNd4R8_eg3b-yn01yXgQ",
-      "lat": 38.898337,
-      "lng": -77.010286,
+      "lat": 41.077326,
+      "lng": 29.038788,
       "name": "Washington DC",
       "phone": " (202) 346-1100",
       "region": "north-america"
