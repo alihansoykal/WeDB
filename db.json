@@ -22,16 +22,6 @@
       "region": "europe"
     },
     {
-      "address": "3 North Avenue\nMaker Maxity, Bandra Kurla Complex\nBandra East\nMumbai, Maharashtra 400051\nHindistan",
-      "id": "mumbai",
-      "image": "https://lh3.googleusercontent.com/twldrlVORn84fYsOLwNLabfRPQYX-dJAzJtpam-Ea4D7QIY1pvMa9FCMbpjUFA8uniBg6XAh8pMijf9qnjmEm4d17UFkwRGToiv5Ug",
-      "lat": 19.054364,
-      "lng": 72.850591,
-      "name": "Bombay",
-      "phone": "+91-22-6611-7150",
-      "region": "asia-pacific"
-    },
-    {
       "address": "beşiktaş",
       "id": "tokyo-strm",
       "image": "https://lh3.googleusercontent.com/GzaUJcEqlixelFX8dg1qcLPwAb4RpEXr3JMxyxpgSTWL17Gso_aq3NeMtQPES7f_JdIrGr9YTBSt08XgNAeoLSkxr3Ue_J0cW3VMCw",
@@ -42,25 +32,15 @@
       "region": "asia-pacific"
     },
     {
-      "address": "111 Richmond Street West\nToronto, ON M5H 2G4\nKanada",
+      "address": "%80 dolu",
       "id": "toronto",
       "image": "https://lh3.googleusercontent.com/vZUQcWL3r_bsHBRP-Z0XfhMxjlSAAe9sZLlw5rbBzqsM6w-WVjnTZGaw3w-PkqkhHPy0x-2Xzg_gishFkVjn5r3epKifwhmRc741",
       "lat": 41.034480,
       "lng": 28.992299,
-      "name": "Toronto",
+      "name": "Beşiktaş WE",
       "phone": "416-915-8200",
       "region": "north-america"
-    },
-    {
-      "address": "Graben 19\n1010 Viyana\nAvusturya",
-      "id": "vienna",
-      "image": "https://lh3.googleusercontent.com/roYQN_TnYd_fP0FCdZxA6lMLbp-h7PyPlDBKwVdfVWKkOCxmLjFHqm-n7hrcakcXHS1FzjXW5XWF_MApzuGIrvy2cewCYd7Z9q5MUw",
-      "lat": 48.209351,
-      "lng": 16.368419,
-      "name": "Viyana",
-      "phone": "",
-      "region": "europe"
-    },
+    }
     {
       "address": "Emilii Plater 53\n00-113 Varşova\nPolonya ",
       "id": "warsaw",
