@@ -41,6 +41,14 @@
       "region": "europe"
     },
     {
+      "address": "Bebek2",
+      "id": "bebek-herostation",
+      "lat": 41.177326,
+      "lng": 29.038788,
+      "name": "HeroStation",
+      "region": "europe"
+    },
+    {
       "address": "Bebek",
       "id": "bebek-herostation",
       "lat": 41.077326,
