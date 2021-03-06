@@ -1,64 +1,52 @@
 {
-  "offices": [
+  "heroStations": [
     {
-      "address": "Merdivenköy",
-      "id": "merdivenköy",
-      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "address": "Göztepe",
+      "id": "göztepe-herostation",
       "lat": 40.980935,
       "lng": 29.089799,
-      "name": "merdivenköy",
-      "phone": "",
+      "name": "HeroStation",
       "region": "europe"
     },
     {
-      "address": "kadıköy",
-      "id": "kadıköy",
-      "image": "https://lh3.googleusercontent.com/Mh8P8gvVwO7NOXfg8anxwPXRy5oKZJ6Cz_LbFfOVdeIsdDfogmMcMsiW7HD7HD2NOINzAPH_v8dALWSuDiiTjCjRnenI7B3l6Pg4yw",
+      "address": "Kadıköy",
+      "id": "kadıköy-herostation",
       "lat": 40.989844,
       "lng": 29.022629,
-      "name": "kadıköy",
-      "phone": "",
+      "name": "HeroStation",
       "region": "europe"
     },
     {
-      "address": "beşiktaş",
+      "address": "Bomonti",
       "id": "tokyo-strm",
-      "image": "https://lh3.googleusercontent.com/GzaUJcEqlixelFX8dg1qcLPwAb4RpEXr3JMxyxpgSTWL17Gso_aq3NeMtQPES7f_JdIrGr9YTBSt08XgNAeoLSkxr3Ue_J0cW3VMCw",
-      "lat": 41.063081,
-      "lng": 29.025875,
-      "name": "Tokyo - STRM",
-      "phone": "+81-3-6384-9000",
-      "region": "asia-pacific"
+      "lat": 41.057440, 
+      "lng": 28.986017,
+      "name": "HeroStation",
+      "region": "europe"
     },
     {
-      "address": "neredeyse dolu",
-      "id": "toronto",
-      "image": "https://lh3.googleusercontent.com/vZUQcWL3r_bsHBRP-Z0XfhMxjlSAAe9sZLlw5rbBzqsM6w-WVjnTZGaw3w-PkqkhHPy0x-2Xzg_gishFkVjn5r3epKifwhmRc741",
+      "address": "Beşiktaş",
+      "id": "beşiktaş-herostation",
       "lat": 41.034480,
       "lng": 28.992299,
-      "name": "Beşiktaş WE",
-      "phone": "416-915-8200",
+      "name": "HeroStation",
       "region": "europe"
     },
     {
-      "address": "Emilii Plater 53\n00-113 Varşova\nPolonya ",
-      "id": "warsaw",
-      "image": "https://lh3.googleusercontent.com/jTf0m2s5A2qS25ArE3x6Tl1KXtpv3JmHIfcBuw7f-JHsTR0tMiyUVeHO1wBeJ2eEGcAWUbTe3b9B8iP8wyL-TROS5zxmMofMHsnf",
-      "lat": 41.068613,
-      "lng": 29.000474,
-      "name": "Varşova",
-      "phone": "+48 22 207 19 00",
+      "address": "Galata",
+      "id": "galata-herostation",
+      "lat": 41.024789, 
+      "lng": 28.974324,
+      "name": "HeroStation",
       "region": "europe"
     },
     {
-      "address": "25 Massachusetts Avenue\nWashington DC, 20001\nAmerika Birleşik Devletleri",
-      "id": "washington-dc",
-      "image": "https://lh3.googleusercontent.com/6rKu8CCH6nMVKjwpnxDlgf_Sdlc7jk83QBVhoLikzEyibYTZkvNPn-QPCJTv3AkjUYf2dHcE15UvPsrg18xNd4R8_eg3b-yn01yXgQ",
+      "address": "Bebek",
+      "id": "bebek-herostation",
       "lat": 41.077326,
       "lng": 29.038788,
-      "name": "Washington DC",
-      "phone": " (202) 346-1100",
-      "region": "north-america"
+      "name": "HeroStation",
+      "region": "europe"
     }
   ],
   "regions": [
