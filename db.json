@@ -9,6 +9,22 @@
       "region": "europe"
     },
     {
+      "address": "Doluluk oranı: %10",
+      "id": "üsküdar-herostation",
+      "lat": 41.024647, 
+      "lng": 29.041844,
+      "name": "Üsküdar HeroStation",
+      "region": "europe"
+    },
+    {
+      "address": "Doluluk oranı: %25",
+      "id": "çamlıca-herostation",
+      "lat": 41.036591, 
+      "lng": 29.066644,
+      "name": "Çamlıca HeroStation",
+      "region": "europe"
+    },
+    {
       "address": "Doluluk oranı: %65",
       "id": "kadıköy-herostation",
       "lat": 40.989844,
