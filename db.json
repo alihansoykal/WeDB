@@ -1,51 +1,51 @@
 {
   "heroStations": [
     {
-      "address": "Göztepe",
+      "address": "Doluluk oranı: %80",
       "id": "göztepe-herostation",
       "lat": 40.980935,
       "lng": 29.089799,
-      "name": "HeroStation",
+      "name": "Göztepe HeroStation",
       "region": "europe"
     },
     {
-      "address": "Kadıköy",
+      "address": "Doluluk oranı: %65",
       "id": "kadıköy-herostation",
       "lat": 40.989844,
       "lng": 29.022629,
-      "name": "HeroStation",
+      "name": "Kadıköy HeroStation",
       "region": "europe"
     },
     {
-      "address": "Bomonti",
+      "address": "Doluluk oranı: %50",
       "id": "bomonti-herostation",
       "lat": 41.057440, 
       "lng": 28.986017,
-      "name": "HeroStation",
+      "name": "Bomonti HeroStation",
       "region": "europe"
     },
     {
-      "address": "Beşiktaş",
+      "address": "Doluluk oranı: %30",
       "id": "beşiktaş-herostation",
       "lat": 41.034480,
       "lng": 28.992299,
-      "name": "HeroStation",
+      "name": "Beşiktaş HeroStation",
       "region": "europe"
     },
     {
-      "address": "Galata",
+      "address": "Doluluk oranı: %20",
       "id": "galata-herostation",
       "lat": 41.024789, 
       "lng": 28.974324,
-      "name": "HeroStation",
+      "name": "Galata HeroStation",
       "region": "europe"
     },
     {
-      "address": "Bebek",
+      "address": "Doluluk oranı: %70",
       "id": "bebek-herostation",
       "lat": 41.077326,
       "lng": 29.038788,
-      "name": "HeroStation",
+      "name": "Bebek HeroStation",
       "region": "europe"
     }
   ],
