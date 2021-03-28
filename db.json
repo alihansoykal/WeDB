@@ -33,11 +33,11 @@
       "region": "north-america"
     },
     {
-      "address": "Capacity: %50",
-      "id": "sunnyvale-herostation",
-      "lat": 37.373743,
-      "lng": -122.042014,
-      "name": "Sunnyvale HeroStation",
+      "address": "Fully empty",
+      "id": "loyola-herostation",
+      "lat": 37.362838,
+      "lng": - -122.107754,
+      "name": "Loyola HeroStation",
       "region": "north-america"
     },
     {
@@ -49,11 +49,11 @@
       "region": "north-america"
     },
     {
-      "address": "Capacity: %20",
-      "id": "woodside-herostation",
-      "lat": 37.432620, 
-      "lng": -122.242434,
-      "name": "Woodside HeroStation",
+      "address": "Almost full",
+      "id": "mountainview-herostation",
+      "lat":  37.390376, 
+      "lng": -122.084651,
+      "name": "Mountain View HeroStation",
       "region": "north-america"
     },
     {
