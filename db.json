@@ -1,68 +1,68 @@
 {
   "heroStations": [
     {
-      "address": "Doluluk oranı: %80",
-      "id": "göztepe-herostation",
-      "lat": 40.980935,
-      "lng": 29.089799,
-      "name": "Göztepe HeroStation",
-      "region": "europe"
+      "address": "Capacity: %80",
+      "id": "montaloma-herostation",
+      "lat": 37.421073, 
+      "lng": -122.088407,
+      "name": "Monta Loma HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %10",
-      "id": "üsküdar-herostation",
-      "lat": 41.024647, 
-      "lng": 29.041844,
-      "name": "Üsküdar HeroStation",
-      "region": "europe"
+      "address": "Capacity: %10",
+      "id": "stanford-herostation",
+      "lat": 37.427113, 
+      "lng": -122.180687,
+      "name": "Stanford HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %25",
-      "id": "çamlıca-herostation",
-      "lat": 41.036591, 
-      "lng": 29.066644,
-      "name": "Çamlıca HeroStation",
-      "region": "europe"
+      "address": "Capacity: %25",
+      "id": "paloalto-herostation",
+      "lat": 37.446437, 
+      "lng": -122.129984,
+      "name": "Palo Alto HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %65",
-      "id": "kadıköy-herostation",
-      "lat": 40.989844,
-      "lng": 29.022629,
-      "name": "Kadıköy HeroStation",
-      "region": "europe"
+      "address": "Capacity: %65",
+      "id": "losaltos-herostation",
+      "lat": 37.389254, 
+      "lng": -122.120857,
+      "name": "Los Altos HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %50",
-      "id": "bomonti-herostation",
-      "lat": 41.057440, 
-      "lng": 28.986017,
-      "name": "Bomonti HeroStation",
-      "region": "europe"
+      "address": "Capacity: %50",
+      "id": "sunnyvale-herostation",
+      "lat": 37.373743,
+      "lng": -122.042014,
+      "name": "Sunnyvale HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %30",
-      "id": "beşiktaş-herostation",
-      "lat": 41.034480,
-      "lng": 28.992299,
-      "name": "Beşiktaş HeroStation",
-      "region": "europe"
+      "address": "Capacity: %30",
+      "id": "eastpaloalto-herostation",
+      "lat": 37.472696, 
+      "lng": -122.132818,
+      "name": "East Palo Alto HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %20",
-      "id": "galata-herostation",
-      "lat": 41.024789, 
-      "lng": 28.974324,
-      "name": "Galata HeroStation",
-      "region": "europe"
+      "address": "Capacity: %20",
+      "id": "woodside-herostation",
+      "lat": 37.432620, 
+      "lng": -122.242434,
+      "name": "Woodside HeroStation",
+      "region": "north-america"
     },
     {
-      "address": "Doluluk oranı: %70",
-      "id": "bebek-herostation",
-      "lat": 41.077326,
-      "lng": 29.038788,
-      "name": "Bebek HeroStation",
-      "region": "europe"
+      "address": "Capacity: %70",
+      "id": "altamesa-herostation",
+      "lat": 37.395930,
+      "lng": -122.142670,
+      "name": "Alta Mesa HeroStation",
+      "region": "north-america"
     }
   ],
   "regions": [
